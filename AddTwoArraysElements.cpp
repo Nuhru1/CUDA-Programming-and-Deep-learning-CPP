@@ -1,3 +1,11 @@
+/*
+  Command to run:
+  g++ AddTwoArraysElements.cpp -o add
+  ./add
+
+*/
+
+
 #include <iostream>
 #include <math.h>
 

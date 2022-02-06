@@ -1,9 +1,14 @@
 # CUDA-and-Deep-learning-CPP
-This repos shows some works about CUDA fundamentals and deep learning with GPU using C++ programming.
+This repos shows some works about CUDA fundamentals and deep learning with GPU using C\C++ programming.
+
+## Tools: 
+   - CUDA C++
+   - nvcc
+   - nvprof
 
 ## CUDA:
 
-  - Code that runs on the **GPU** is often called **device code**, while code that runs on the *CPU* is called *host code*
+  - Code that runs on the *GPU* is often called *device code, while code that runs on the *CPU* is called *host code*
 
   - To turn a function into a function that the GPU can run, called a kernel in CUDA, we just is add the specifier *__global__* to the function, which tells the CUDA C++ compiler that this is a function that runs on the GPU and can be called from CPU code.
 
