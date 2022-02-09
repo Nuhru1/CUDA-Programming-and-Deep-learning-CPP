@@ -21,3 +21,5 @@ Call:
    - *cudaFree()*: to free the data.
 
 For example: replace the  *new* in the c++ code with *cudaMallocManaged()*, and replace *delete []* with *cudaFree*.
+
+Memory Allocation:
