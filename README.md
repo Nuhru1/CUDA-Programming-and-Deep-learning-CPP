@@ -23,3 +23,4 @@ Call:
 For example: replace the  *new* in the c++ code with *cudaMallocManaged()*, and replace *delete []* with *cudaFree*.
 
 Memory Allocation:
+![image](https://user-images.githubusercontent.com/44145876/153255732-22fb4014-dbdb-4093-8e58-c14e4bbea06d.png)
